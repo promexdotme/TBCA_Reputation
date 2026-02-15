@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: TBCA Reputable (TBC Anniversary)
+## Notes: The ultimate lightweight reputation tracker: Favorites, Session Stats, and Auto-Switching.
+## Author: Unforvegan Dreamscythe
+## Version: 1.0
+## SavedVariablesPerCharacter: TBCA_ReputationDB
+
+core.lua
